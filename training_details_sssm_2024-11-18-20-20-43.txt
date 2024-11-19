@@ -1,0 +1,5 @@
+Training completed for the spectral SSM on mujoco-v1 at: 2024-11-18 20:22:33.115669
+Best model step: 2810
+Best validation loss: 0.8541
+Best model checkpoint saved at: checkpoints\sssm-Walker2D-v1-model_step-2810-2024-11-18-20-20-43.pt
+Additional data saved at: checkpoints\sssm-Walker2D-v1-other_step-2810-2024-11-18-20-20-43.pt
