@@ -82,7 +82,7 @@ def main() -> None:
     parser.add_argument(
         "--controller",
         type=str,
-        default="Ant-v1",
+        default="HalfCheetah-v1",
         choices=["Ant-v1", "HalfCheetah-v1", "Walker2D-v1", "CartPole-v1"],
         help="Controller to use for the MuJoCo environment. Defaults to Ant-v1.",
     )
